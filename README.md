@@ -52,5 +52,5 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dmoquia&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmoquia&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Dmoquia's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmoquia)](https://github.com/dmoquia/github-readme-stats)
