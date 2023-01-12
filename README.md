@@ -26,7 +26,7 @@
 ---
 
 ### :man_technologist: About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Manila.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a freelance coder and contributing to frontend and backend for building web applications.
 - :juggling_person:I enjoy working on the current technology specially on single page application and responsive design.
 - :zap: in my free time, I offer volunter work for a friends who started a small business just for the purpose to improve my skill.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-dmoquia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-moquia/)
