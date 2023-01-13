@@ -53,4 +53,5 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dmoquia&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
 
-[![Dmoquia's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmoquia)](https://github.com/dmoquia/github-readme-stats)
+[![Dmoquia's wakatime stats](https://github-readme-stats.vercel.app/api/dmoquia?username=dmoquia)](https://github.com/dmoquia/github-readme-stats)
+
